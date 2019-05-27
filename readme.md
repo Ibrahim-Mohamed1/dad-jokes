@@ -654,7 +654,6 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 
 ---
 
-
 **Q**: What's brown and sticky?
 
 **A**: A stick!
